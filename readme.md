@@ -9,3 +9,4 @@ y el asistente virtual de ALORA
 lo he probado en forma online via web y de forma locas y funciona bien
 5.-ha medido que vaya imaginando mejoras las ire ingresando
 
+en un momento al modificar o subir las imagenes a Github estas no de me mostraban al cargar la pagina web, pero si se me cargaban de forma local, revisando el codigo visualmente , entendi debia modificar la ruta donde se encontraban dichas imagenes , ya que este caso ya las habia subido a github., el codigo ya se me hace mas familiar, lo que me tiene bastante feliz. ya puedo hacer modificiones por si solo.
